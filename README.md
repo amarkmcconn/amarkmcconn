@@ -16,8 +16,7 @@
 </h1>
 
 ### 👨‍💻 About Me :
-- :telescope: I’m a full-time student at Epicodus learning front-end and back-end programming for building web applications.
-- 🌱 I’m learning HTML, CSS, JavaScript, C#, React, and Node.js
+- :telescope: I’m a full-time intern at EyeCue Lab.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-mcconnell1/)
 - ⚡ Fun fact: I summited three of Oregon's Peaks ⛰️ in 4 days. Mt. McLoughlin, Mt. Thielsen and Middle Sister
 ### :hammer_and_wrench: Languages and Tools :
