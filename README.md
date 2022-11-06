@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **mark.programming1@gmail.com**
 
-- ⚡ Fun fact **Fun fact: I summited three of Oregon's Peaks ⛰️ in 4 days. Mt. McLoughlin, Mt. Thielsen and Middle Sister**
+- ⚡ **Fun fact: I summited three of Oregon's Peaks ⛰️ in 4 days. Mt. McLoughlin, Mt. Thielsen and Middle Sister**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
