@@ -15,7 +15,7 @@
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/> -->
 </h1>
 <h1 align="center">Hi 👋, I'm Mark McConnell</h1>
-<h3 align="center">An ambitious Software Engineer that is creative, enthusiastic & enjoys solving problems. Bringing enthusiasm and understanding of React, Typescript, and other web technologies to webpage planning and development. Experience with layout design, frameworks, and developing sites from concept to rollout. Foundational grasp of various CSS and HTML options and development platforms. Eagerness & passion to learn new technologies.</h3>
+<h3 align="center">As an ambitious Quality Assurance Engineer, I bring a creative and problem-solving mindset to ensure software excellence. With a strong foundation in React, Typescript, and various web technologies, I am enthusiastic about webpage planning and development, offering a meticulous eye for detail. From layout design to rollout, I strive for flawless execution, leveraging my expertise in CSS, HTML, and development platforms. Eager to learn new technologies, my passion drives me to constantly improve and stay updated with the latest QA methodologies. Committed to delivering top-notch software products, I collaborate seamlessly with development teams, employing effective testing strategies to guarantee exceptional functionality, reliability, and user experience..</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarkmcconn&label=Profile%20views&color=0e75b6&style=flat" alt="amarkmcconn" /> </p> -->
 
